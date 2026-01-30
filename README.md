@@ -5,7 +5,7 @@
 - 🕵 My research on <a href="https://www.mdpi.com/1999-5903/17/1/44" target="_blank">**Fraud Detection in Cryptocurrency Networks using Anomaly Detection and HGT**</a>
 - 📫 Reach me at **perezcanovictor@gmail.com**
 
-<!-- ### Blogs posts -->
+<h3 align="left">Recent Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
