@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Víctor 👋</h1>
 <h3 align="left">An AI & Software Engineer based in Madrid, Spain</h3>
 
-- 👨🏻‍💻 Currently building **[seekmind.io](https://seekmind.io)**
-- 🕵 My research on **[Fraud Detection in Cryptocurrency Networks using Anomaly Detection and HGT](https://www.mdpi.com/1999-5903/17/1/44)**
+- 👨🏻‍💻 Currently building <a href="https://seekmind.io" target="_blank">**seekmind.io**</a>
+- 🕵 My research on <a href="https://www.mdpi.com/1999-5903/17/1/44" target="_blank">**Fraud Detection in Cryptocurrency Networks using Anomaly Detection and HGT**</a>
 - 📫 Reach me at **perezcanovictor@gmail.com**
 
 <!-- ### Blogs posts -->
