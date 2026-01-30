@@ -7,6 +7,7 @@
 
 <h3 align="left">Recent Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [How to Configure Asymmetric JWTs on Self-Hosted Supabase](https://dev.to/vpcano/how-to-configure-asymmetric-jwts-on-self-hosted-supabase-53ed)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
