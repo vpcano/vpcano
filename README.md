@@ -15,8 +15,7 @@
 <a href="https://github.com/vpcano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vpcano" height="30" width="40" /></a>
 <a href="https://dev.to/vpcano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vpcano" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vpcano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vpcano" height="30" width="40" /></a>
-<a href="https://instagram.com/victorprz_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="victorprz_10" height="30" width="40" /></a>
-<a href="https://twitter.com/victorprz_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorprz_10" height="30" width="40" /></a>
+<a href="https://orcid.org/0009-0006-5854-8556" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1280px-ORCID_iD.svg.png" alt="Víctor Pérez-Cano" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">My Stack:</h3>
